@@ -13,11 +13,13 @@ VCS -> Import -> Share
 如果想一部完成
 右键 -> Git -> commit/push 
 
-
-
 ## 更新操作
 
-王玉超
+右键 -> git -> repo -> pull 
+
+## 更新冲突操作
+
+王玉超王宇昂
 
 
 
