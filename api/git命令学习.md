@@ -1,9 +1,15 @@
-# 上传
-
-## 第一次 Share To Github
+# 分享项目 Share To Github
 
 VCS -> Import -> Share
 
+# 拉取项目 
+
+也可以首页GET
+
+VCS -> Get From -> Repository
+VCS -> Get From -> Github
+
+# Git操作
 ## 提交操作 commit/push
 
 完整的两步操作
