@@ -6,7 +6,13 @@ VCS -> Import -> Share
 
 ## 提交操作
 
-右键 -> Git ->
+完整的两步操作
+右键 -> Git -> commit 
+右键 -> Git -> push
+
+如果想一部完成
+右键 -> Git -> commit/push 
+
 
 
 
